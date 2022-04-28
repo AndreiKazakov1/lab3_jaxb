@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<organization>
+    <orgNo>ORG1</orgNo>
+    <orgName>FAR AWAY</orgName>
+    <location>USA</location>
+    <departments>
+        <department>
+            <deptNo>D01</deptNo>
+            <deptName>ACCOUNTING</deptName>
+            <location>NEW YORK</location>
+            <employees>
+                <employee>
+                    <empNo>E01</empNo>
+                    <empName>Tom</empName>
+                </employee>
+                <employee>
+                    <empNo>E02</empNo>
+                    <empName>Mary</empName>
+                    <managerNo>M01</managerNo>
+                </employee>
+                <employee>
+                    <empNo>E03</empNo>
+                    <empName>John</empName>
+                </employee>
+            </employees>
+        </department>
+        <department>
+            <deptNo>D02</deptNo>
+            <deptName>TRANSPORT</deptName>
+            <location>BOSTON</location>
+            <employees>
+                <employee>
+                    <empNo>E04</empNo>
+                    <empName>Jack</empName>
+                    <managerNo>M04</managerNo>
+                </employee>
+                <employee>
+                    <empNo>E05</empNo>
+                    <empName>Bob</empName>
+                </employee>
+                <employee>
+                    <empNo>E06</empNo>
+                    <empName>Allan</empName>
+                    <managerNo>M05</managerNo>
+                </employee>
+            </employees>
+        </department>
+    </departments>
+</organization>
